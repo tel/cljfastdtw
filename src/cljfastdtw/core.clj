@@ -1,4 +1,4 @@
-(ns cljfastDTW.core
+(ns cljfastdtw.core
   (:import [com.timeseries TimeSeries TimeSeriesPoint]
            [com.dtw FastDTW DTW]
            [java.util ArrayList]))
